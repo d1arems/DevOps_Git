@@ -1,4 +1,5 @@
 #!/bin/bash
+#This script performs a git flow
 git status
 git add .
 git commit -m "another git commit"
