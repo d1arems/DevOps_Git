@@ -1,5 +1,6 @@
 #!/bin/bash
 git status
 git add .
-git commit -m "initial git commit"
-git tag -a v1.0 -m "first version of git bashscript"
+git commit -m "another git commit"
+git tag -a v1.0.0 -m "second version of git bashscript"
+git push -u origin main
